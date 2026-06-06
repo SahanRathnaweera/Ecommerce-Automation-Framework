@@ -59,12 +59,20 @@ The test suite thoroughly validates critical user journeys, covering both negati
 * Robust Assertions: Integrated strict validations at every stage of the checkout funnel (Product price, cart counts, pop-ups, and order placement success messages).
 * Data-Driven Readiness: Designed step definitions to dynamically accept various user credentials and payment profiles.
 
----
+#Cucumber Test Execution Report 
+<img width="1600" height="412" alt="WhatsApp Image 2026-06-06 at 18 40 30" src="https://github.com/user-attachments/assets/6af6cf78-b936-4db2-9958-46a9d46a62b5" />
+<img width="1600" height="680" alt="WhatsApp Image 2026-06-06 at 18 40 02" src="https://github.com/user-attachments/assets/bb17efd2-bced-4ff3-93bb-910a2f788316" />
+
+
+
+
+
 
 # 📦 How to Run the Tests Locally
 
 1. Clone the repository:
 ```bash
    git clone [https://github.com/SahanRathnaweera/Ecommerce-Automation-Framework.git](https://github.com/SahanRathnaweera/Ecommerce-Automation-Framework.git)
+
 
 
